@@ -8,7 +8,7 @@ Previously,
 
 Wireless network stack developer | Embedded software Development | Signal and Image processing | Upcycler of old electronics
 
-- I’m currently studying Signal prococessing, Datascience, and Computer Networks.
+- I’m currently studying Signal prococessing, Datascience, and Computer Networks with an aim to develop edge intelligence solutions.
 
 ### You can find me on
 
