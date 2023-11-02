@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm Siddharth Hasanabadi ! 
 
-<!--
-**siddharthlh24/siddharthlh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing my Masters in Electrical Engineering at North Carolina State University (Raleigh)
 
-Here are some ideas to get you started:
+Previously,
+- Embedded wireless stack developer ( Analog Devices, Automotive Division )
+- Electronics and Communication Engineering undergrad from VIT Vellore.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Wireless network stack developer | Embedded software Development | Signal and Image processing | Upcycler of old electronics
+
+- I’m currently studying Signal prococessing, Datascience, and Computer Networks.
+
+### You can find me on
+
+[LinkedIn](https://www.linkedin.com/in/siddharth-hasanabadi/) | [Youtube](https://www.youtube.com/siddharthlh) | [Instagram](https://www.instagram.com/siddharth.lh/you) |
+
+Email: slhasana@ncsu.edu / siddharthasanabadi@gmail.com <br>
