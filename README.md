@@ -15,3 +15,6 @@ Wireless network stack developer | Embedded software Development | Signal and Im
 [LinkedIn](https://www.linkedin.com/in/siddharth-hasanabadi/) | [Youtube](https://www.youtube.com/siddharthlh) | [Instagram](https://www.instagram.com/siddharth.lh/you) |
 
 Email: slhasana@ncsu.edu / siddharthasanabadi@gmail.com <br>
+
+![](./metrics.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthlh24&layout=compact)](https://github.com/siddharthlh24)
