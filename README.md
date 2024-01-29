@@ -17,5 +17,4 @@ Wireless network stack developer | Embedded software Development | Signal and Im
 Email: slhasana@ncsu.edu / siddharthasanabadi@gmail.com <br>
 
 ![](./metrics.svg)
-![](https://komarev.com/ghpvc/?username=siddharthlh24)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthlh24&layout=compact)](https://github.com/siddharthlh24)
