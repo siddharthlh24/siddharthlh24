@@ -1,6 +1,6 @@
 ## Hi, I'm Siddharth Hasanabadi ! 
 
-I'm currently pursuing my Masters in Electrical Engineering at North Carolina State University (Raleigh)
+I'm currently pursuing my Masters in Electrical Engineering (Wireless Comms.) at North Carolina State University (Raleigh)
 
 Previously,
 - Embedded wireless stack developer ( Analog Devices, Automotive Division )
@@ -8,7 +8,7 @@ Previously,
 
 Wireless network stack developer | Embedded software Development | Signal and Image processing | Upcycler of old electronics
 
-- I’m currently studying Signal processing, Datascience, and Computer Networks with an aim to develop edge intelligence solutions.
+- I’m currently studying Detection and Estimation Theory, Wireless Networking, and Neural Networks.
 
 ### You can find me on
 
