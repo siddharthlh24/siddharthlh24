@@ -1,9 +1,10 @@
 ## Hi, I'm Siddharth Hasanabadi ! 
 
-I'm currently an RF Engineer at Hughes Network Systems ( Echostar ).
+I'm an Electrical Engineer, and currently work on cellular protocol at Apple.
 
 Previously:
     
+    RF Engineer at Hughes Network Systems ( Echostar ).
     Electrical Enginnering Student at North Carolina State University ( Wireless Communication and signal processing )
     Wireless Protocol Stack Developer at Analog Devices (Embedded software, Automotive Division)
     Undergraduate in Electronics and Communication Engineering from VIT Vellore
