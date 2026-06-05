@@ -1,6 +1,6 @@
 ## Hi, I'm Siddharth Hasanabadi ! 
 
-I'm an Electrical Engineer, and currently work on cellular protocol at Apple.
+I'm an Electrical Engineer
 
 Previously:
     
@@ -13,6 +13,6 @@ I hold an interest in Wireless Protocols, Embedded Software Development, and Sig
 
 ### You can find me on
 
-[LinkedIn](https://www.linkedin.com/in/siddharth-hasanabadi/) | [Youtube](https://www.youtube.com/siddharthlh) | [Instagram](https://www.instagram.com/siddharth.lh/you) |
+[LinkedIn](https://www.linkedin.com/in/siddharth-hasanabadi/) | [Instagram](https://www.instagram.com/siddharth.lh/you) |
 
 Email: slhasana@ncsu.edu / siddharthasanabadi@gmail.com <br>
